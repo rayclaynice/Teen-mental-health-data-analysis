@@ -1,4 +1,5 @@
 # 🧠 Teen Social Media & Mental Health Dashboard
+**Live Demo:** [ Open Interactive Dashboard](https://teen-mental-health-data-analysis-jvdwgouijs3py9ji95bqrz.streamlit.app/)
 
 An interactive data analysis dashboard exploring the relationship between social media usage and teenage mental health outcomes.
 
