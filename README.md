@@ -1,57 +1,37 @@
 # 🧠 Teen Social Media & Mental Health Dashboard
 
-An interactive dashboard that explores how social media affects teenagers' mental health.
+A simple interactive dashboard that shows how social media use affects teenagers' mental health.
 
----
 
-## 📌 Overview
+## What is this?
 
-This dashboard analyzes the relationship between **social media usage** and **teen mental health**. 
+This dashboard explores the connection between **social media habits** and **teen mental health**. 
 
-It helps answer important questions like:
-- Does spending more time on social media affect sleep and stress?
-- How does social media impact depression and academic performance?
-- Which teens are at higher mental health risk?
+It uses real-world-style data to show how daily screen time relates to sleep, stress, anxiety, depression, and academic performance.
 
-Built to raise awareness about digital habits and teen well-being.
 
----
+## Key Findings
 
-## 📊 Dataset
+- Teens in this data sleep only **6.1 hours** per night on average  
+- **37.8%** of teens are in the High or Very High mental health risk group  
+- More social media time = less sleep and higher stress  
+- 4+ hours per day appears to be a risk threshold
 
-- **5,000+ teenagers** (ages 13–19)
-- Contains real-world style data including:
-  - Daily social media hours
-  - Sleep hours
-  - Stress, anxiety & depression levels
-  - Academic performance
-  - Physical activity
-  - Platform usage (TikTok, Instagram, etc.)
-  - Gender & Age
 
----
+## Features
 
-## 🎯 Objectives
+- Overview with important numbers
+- Usage patterns (by gender & platform)
+- Correlation charts
+- Depression and addiction analysis
+- Mental Health Risk Score
 
-- Understand the impact of social media on teen mental health
-- Discover correlations between usage, sleep, stress, and academics
-- Identify teens at higher risk using a **Mental Health Risk Score**
-- Highlight gender and age differences in behavior
+All charts are interactive — you can hover, click, and explore the data easily.
 
----
 
-## 🛠️ Tools Used
 
-- **Streamlit** – Interactive web app
-- **Python** – Main language
-- **Pandas** – Data analysis
-- **Plotly** – Beautiful interactive charts
+## How to Run Locally
 
----
-
-## 🚀 How to Run Locally
-
-1. Clone this repository:
+1. Clone the repo:
    ```bash
    git clone https://github.com/YOUR_USERNAME/teen-mental-health-dashboard.git
-   cd teen-mental-health-dashboard
